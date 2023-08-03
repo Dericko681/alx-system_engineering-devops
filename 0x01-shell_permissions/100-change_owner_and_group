@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -hr vincent staff 
+for file in *; do chown vincent:staff $file 
