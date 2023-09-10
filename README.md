@@ -1,2 +1,3 @@
 #!/bin/bash
-A description of this repository as required
+0x02. Intro to shell and DevOps Engineering
+
