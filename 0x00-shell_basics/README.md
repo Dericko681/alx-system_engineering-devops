@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "ALX School is so cool!"
-
+introduction to shell and devops engineering by ALX
